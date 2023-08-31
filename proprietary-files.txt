@@ -1,4 +1,4 @@
-# Unpinned blobs from moba-user 11 RKQ1.201022.002 12.5.175_210114 release-keys
+## All proprietary files from this list, unless pinned and noted, are from L79031_CN_SECURE_USER_Q00189.1_R_ZUI_12.5.175_ST_210114
 
 # ACDB
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
